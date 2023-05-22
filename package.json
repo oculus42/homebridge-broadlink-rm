@@ -25,7 +25,7 @@
   },
   "dependencies": {
     "broadlinkjs-rm": "^0.7.6",
-    "chai": "^4.2.0",
+    "chai": "^4.3.7",
     "find-key": "^2.0.1",
     "github-version-checker": "^1.2.0",
     "homebridge-platform-helper": "lprhodes/homebridge-platform-helper#feature/typescript",
