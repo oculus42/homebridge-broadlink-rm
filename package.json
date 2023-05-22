@@ -30,7 +30,7 @@
     "github-version-checker": "^1.2.0",
     "homebridge-platform-helper": "lprhodes/homebridge-platform-helper#feature/typescript",
     "net-ping": "^1.2.3",
-    "ping": "^0.2.2",
+    "ping": "^0.4.4",
     "uuid": "^3.3.3"
   },
   "devDependencies": {
