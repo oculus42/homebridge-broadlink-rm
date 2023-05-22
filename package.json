@@ -31,7 +31,7 @@
     "homebridge-platform-helper": "lprhodes/homebridge-platform-helper#feature/typescript",
     "net-ping": "^1.2.3",
     "ping": "^0.2.2",
-    "uuid": "^3.3.3"
+    "uuid": "^3.4.0"
   },
   "devDependencies": {
     "mocha": "^6.2.2",
