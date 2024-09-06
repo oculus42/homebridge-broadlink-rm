@@ -25,12 +25,12 @@
   },
   "dependencies": {
     "broadlinkjs-rm": "^0.7.6",
-    "chai": "^4.2.0",
+    "chai": "^4.3.10",
     "find-key": "^2.0.1",
     "github-version-checker": "^1.2.0",
     "homebridge-platform-helper": "lprhodes/homebridge-platform-helper#feature/typescript",
     "net-ping": "^1.2.3",
-    "ping": "^0.2.2",
+    "ping": "^0.4.4",
     "uuid": "^3.3.3"
   },
   "devDependencies": {
