@@ -27,7 +27,7 @@
     "broadlinkjs-rm": "^0.7.6",
     "chai": "^4.2.0",
     "find-key": "^2.0.1",
-    "github-version-checker": "^1.2.0",
+    "github-version-checker": "^2.3.0",
     "homebridge-platform-helper": "lprhodes/homebridge-platform-helper#feature/typescript",
     "net-ping": "^1.2.3",
     "ping": "^0.2.2",
